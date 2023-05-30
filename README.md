@@ -12,12 +12,12 @@ This repository contains a Python script to visualize the path of Lasso coeffici
 
 You can install these libraries using pip:
 
-'''bash
+```bash
 pip install numpy seaborn matplotlib scikit-learn
 
 
 ## Usage
 You can run the script using Python:
 
-'''bash
+```bash
 python plot_lasso.py
