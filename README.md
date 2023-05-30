@@ -14,10 +14,11 @@ You can install these libraries using pip:
 
 ```bash
 pip install numpy seaborn matplotlib scikit-learn
-
+```
 
 ## Usage
 You can run the script using Python:
 
 ```bash
 python plot_lasso.py
+```
